@@ -1,0 +1,12 @@
+.century {
+  position: relative;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+
+.century .famous-container {
+  position: relative;
+  min-height: 100px;
+  background-color: rgb(238, 223, 176);
+  padding: 30px 15px;
+}
