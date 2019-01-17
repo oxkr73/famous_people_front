@@ -6,19 +6,9 @@ import TinySlider from "tiny-slider-react";
 class Main extends React.Component {
   constructor(props) {
     super(props);
-    /* let startAge = 100; */
     this.state = {
       startIndex: 20,
       startCentury: 2000,
-      /*get currentCentury() {
-        return this.startCentury;
-      },
-      get prevCentury() {
-        return this.currentCentury - 100;
-      },
-      get nextCentury() {
-        return this.currentCentury + 100;
-      },*/
       centuries: [],
       ages: [],
       totalCenturies: 1,
@@ -116,20 +106,9 @@ class Main extends React.Component {
 
   componentDidUpdate() {
     console.log("didUpdate");
-    //console.log(this.state);
   }
 
-  /* centurySelectedHandler = id => {
-    console.log("handler");
-    this.setState({
-      currentCentury: id,
-      prevCentury: id - 100,
-      nextCentury: id + 100
-    });
-  }; */
-
   onIndexChanged = ev => {
-    //console.log(ev, ev.index);
     if (this.state.ages[this.state.centuries[ev.index - 1]]) {
       let prevButton = `<div class="century-title">
                           ${this.state.centuries[ev.index - 1]}
@@ -159,37 +138,12 @@ class Main extends React.Component {
 
   render() {
     const centuries = this.state.ages.map((cent, idx, arr) => {
-      /* let ageWidth = "auto";
-      let ageStatus = "hidden";
-      let currentTotalCenturies = this.state.totalCenturies;
-      let currentCenturyPercent = 80;*/
-      //let currentCenturyRest = 20 / currentTotalCenturies - 1;
-      /*if (currentTotalCenturies === 1) {
-        ageWidth = "160px";
-      } else {
-        console.log(idx, idx !== this.state.currentCentury);
-        if (idx === this.state.currentCentury) {
-          ageWidth = currentCenturyPercent + "%";
-          ageStatus = "current";
-        } else if (
-          idx === this.state.prevCentury ||
-          idx === this.state.nextCentury
-        ) {
-          ageWidth = "10%";
-          ageStatus = "prev-next";
-        } else {
-          ageWidth = "0";
-        }
-      }*/
       return (
         <Century
           key={idx}
           age={idx}
           famous={arr[idx]}
           centuryWidth={this.state.carouselWidth}
-          //agewidth={ageWidth}
-          //century={ageStatus}
-          //clicked={() => this.centurySelectedHandler(idx)}
         />
       );
     });

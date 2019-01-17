@@ -44,13 +44,15 @@ class Famous extends React.Component {
         <div
           className="famous-lived"
           style={lifeLineWidth}
-          title={this.props.name}
+          title={this.props.name + " (" + this.props.age + ")"}
         />
         <div className="famous-pointer">
           <span className="famous-pointer_dot">·</span>
         </div>
         <div className="famous-data" style={dataStyle}>
-          <div className="famous-name">{this.props.name}</div>
+          <div className="famous-name">
+            {this.props.name + " (" + this.props.age + ")"}
+          </div>
           <div className="famous-live">{this.props.live}</div>
           <div className="famous-desc">{this.props.desc}</div>
         </div>

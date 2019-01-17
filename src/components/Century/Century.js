@@ -25,17 +25,8 @@ const Century = props => {
     );
   });
 
-  const centuryStyle = {
-    /* width: props.agewidth,
-    display: props.century === "hidden" ? "none" : "inline-block" */
-  };
   return (
-    <div
-      className="century"
-      style={centuryStyle}
-      age={props.ageStatus}
-      onClick={props.clicked}
-    >
+    <div className="century" age={props.ageStatus} onClick={props.clicked}>
       <div className="century-name">{props.age}</div>
       <div className="famous-container">{famous}</div>
     </div>
