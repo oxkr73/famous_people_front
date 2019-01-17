@@ -1,61 +1,45 @@
 import React from "react";
-import axios from "axios";
 import Famous from "../Famous/Famous";
 import "./Century.css";
 
-class Century extends React.Component {
-  state = {
-    famous: []
-  };
-  componentDidMount() {
-    axios
-      .get("http://localhost:4000/famous/1800", {
-        headers: {
-          "Access-Control-Allow-Origin": true,
-          "content-type": "application/json"
-        }
-      })
-      .then(response => {
-        const fams = response.data;
-        const updatedFams = fams.map(fam => {
-          const posLeft = Number(fam.born.slice(2)) + "%";
-          const posTop = Math.floor(Math.random() * 90) + "%";
-          return {
-            ...fam,
-            posLeft,
-            posTop
-          };
-        });
-        //console.log(updatedFams);
-        this.setState({ famous: updatedFams });
-      })
-      .catch(err => {
-        console.log(err);
-      });
-  }
-  render() {
-    const famous = this.state.famous.map((fam, idx) => {
-      return (
-        <Famous
-          key={idx}
-          name={fam.name}
-          live={fam.live}
-          desc={fam.desc}
-          posleft={fam.posLeft}
-          postop={fam.posTop}
-        />
-      );
-    });
-    const centuryStyle = {
-      width: this.props.agewidth
-    };
+const Century = props => {
+  const centuryWidth = props.centuryWidth;
+  const famous = props.famous.map((fam, idx) => {
+    const years = fam.live.split("-");
+    const born = years[0];
+    const death = years[1] || new Date().getFullYear();
+    const lifeLine = Math.floor((centuryWidth * (death - born)) / 100);
     return (
-      <div className="century" style={centuryStyle}>
-        <div className="century-name">{this.props.age}</div>
-        <div className="famous-container">{famous}</div>
-      </div>
+      <Famous
+        key={idx}
+        id={fam.born.slice(0, 2) + "-" + idx}
+        name={fam.name}
+        live={fam.live}
+        age={death - born}
+        lifeLine={lifeLine}
+        desc={fam.desc}
+        posleft={fam.posLeft}
+        postop={fam.posTop}
+        repoData={fam.repoData}
+      />
     );
-  }
-}
+  });
+
+  const centuryStyle = {
+    /* width: props.agewidth,
+    display: props.century === "hidden" ? "none" : "inline-block" */
+  };
+  return (
+    <div
+      className="century"
+      style={centuryStyle}
+      age={props.ageStatus}
+      onClick={props.clicked}
+    >
+      <div className="century-name">{props.age}</div>
+      <div className="famous-container">{famous}</div>
+    </div>
+  );
+};
 
 export default Century;

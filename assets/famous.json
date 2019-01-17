@@ -1,0 +1,822 @@
+[
+  {
+    "name": "Marilyn Monroe",
+    "live": "1926 - 1962",
+    "desc": "American actress, singer, model"
+  },
+  {
+    "name": "Abraham Lincoln",
+    "live": "1809 - 1865",
+    "desc": "US President during American civil war"
+  },
+  {
+    "name": "Mother Teresa",
+    "live": "1910 - 1997",
+    "desc": "Macedonian Catholic missionary nun"
+  },
+  {
+    "name": "John F. Kennedy",
+    "live": "1917 - 1963",
+    "desc": "US President 1961 - 1963"
+  },
+  {
+    "name": "Martin Luther King",
+    "live": "1929 - 1968",
+    "desc": "American civil rights campaigner"
+  },
+  {
+    "name": "Nelson Mandela",
+    "live": "1918 - 2013",
+    "desc": "South African President anti-apartheid campaigner"
+  },
+  {
+    "name": "Queen Elizabeth II",
+    "live": "1926 -",
+    "desc": "British monarch since 1954"
+  },
+  {
+    "name": "Winston Churchill",
+    "live": "1874 - 1965",
+    "desc": "British Prime Minister during WWII"
+  },
+  {
+    "name": "Donald Trump",
+    "live": "1946 -",
+    "desc": "Businessman, US President."
+  },
+  {
+    "name": "Bill Gates",
+    "live": "1955 -",
+    "desc": "American businessman, founder of Microsoft"
+  },
+  {
+    "name": "Muhammad Ali",
+    "live": "1942 - 2016",
+    "desc": "American Boxer and civil rights campaigner"
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "live": "1869 - 1948",
+    "desc": "Leader of Indian independence movement"
+  },
+  {
+    "name": "Margaret Thatcher",
+    "live": "1925 - 2013",
+    "desc": "British Prime Minister 1979 - 1990"
+  },
+  {
+    "name": "Christopher Columbus",
+    "live": "1451 - 1506",
+    "desc": "Italian explorer"
+  },
+  {
+    "name": "Charles Darwin",
+    "live": "1809 - 1882",
+    "desc": "British scientist, theory of evolution"
+  },
+  {
+    "name": "Elvis Presley",
+    "live": "1935 - 1977",
+    "desc": "American musician"
+  },
+  {
+    "name": "Albert Einstein",
+    "live": "1879 - 1955",
+    "desc": "German scientist, theory of relativity"
+  },
+  {
+    "name": "Paul McCartney",
+    "live": "1942 -",
+    "desc": "British musician, member of Beatles"
+  },
+  {
+    "name": "Queen Victoria",
+    "live": "1819 - 1901",
+    "desc": "British monarch 1837 - 1901"
+  },
+  {
+    "name": "Pope Francis",
+    "live": "1936 -",
+    "desc": "First pope from the Americas"
+  },
+  {
+    "name": "Jawaharlal Nehru",
+    "live": "1889 - 1964",
+    "desc": "Indian Prime Minister 1947 - 1964"
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "live": "1452 - 1519",
+    "desc": "Italian, painter, scientist, polymath"
+  },
+  { "name": "Vincent Van Gogh", "live": "1853 - 1890", "desc": "Dutch artist" },
+  {
+    "name": "Franklin D. Roosevelt",
+    "live": "1882 - 1945",
+    "desc": "US President 1932 - 1945"
+  },
+  { "name": "Pope John Paul II", "live": "1920 - 2005", "desc": "Polish Pope" },
+  {
+    "name": "Thomas Edison",
+    "live": "1847 - 1931",
+    "desc": "American inventor"
+  },
+  {
+    "name": "Rosa Parks",
+    "live": "1913 - 2005",
+    "desc": "American civil rights activist"
+  },
+  {
+    "name": "Aung San Suu Kyi",
+    "live": "1945 -",
+    "desc": "Burmese opposition leader"
+  },
+  {
+    "name": "Lyndon Johnson",
+    "live": "1908 - 1973",
+    "desc": "US President 1963 - 1969"
+  },
+  {
+    "name": "Ludwig Beethoven",
+    "live": "1770 - 1827",
+    "desc": "German composer"
+  },
+  {
+    "name": "Oprah Winfrey",
+    "live": "1954 -",
+    "desc": "American TV presenter, actress, entrepreneur"
+  },
+  {
+    "name": "Indira Gandhi",
+    "live": "1917 - 1984",
+    "desc": "Prime Minister of India 1966 - 1977"
+  },
+  {
+    "name": "Eva Peron",
+    "live": "1919 - 1952",
+    "desc": "First Lady of Argentina 1946 - 1952"
+  },
+  {
+    "name": "Benazir Bhutto",
+    "live": "1953 - 2007",
+    "desc": "Prime Minister of Pakistan 1993 - 1996"
+  },
+  { "name": "George Orwell", "live": "1903 - 1950", "desc": "British author" },
+  {
+    "name": "Desmond Tutu",
+    "live": "1931 -",
+    "desc": "South African Bishop and opponent of apartheid"
+  },
+  {
+    "name": "Dalai Lama",
+    "live": "1938 -",
+    "desc": "Spiritual and political leader of Tibetans"
+  },
+  {
+    "name": "Walt Disney",
+    "live": "1901 - 1966",
+    "desc": "American film producer"
+  },
+  { "name": "Neil Armstrong", "live": "1930 - 2012", "desc": "US astronaut" },
+  {
+    "name": "Peter Sellers",
+    "live": "1925 - 1980",
+    "desc": "British actor and comedian"
+  },
+  {
+    "name": "Barack Obama",
+    "live": "1961 -",
+    "desc": "US President 2008 - 2016"
+  },
+  {
+    "name": "Malcolm X",
+    "live": "1925 - 1965",
+    "desc": "American Black nationalist leader"
+  },
+  { "name": "J.K.Rowling", "live": "1965 -", "desc": "British author" },
+  {
+    "name": "Richard Branson",
+    "live": "1950 -",
+    "desc": "British entrepreneur"
+  },
+  {
+    "name": "Pele",
+    "live": "1940 -",
+    "desc": "Brazilian footballer, considered greatest of 20th century."
+  },
+  {
+    "name": "Angelina Jolie",
+    "live": "1975 -",
+    "desc": "Actress, director, humanitarian"
+  },
+  {
+    "name": "Jesse Owens",
+    "live": "1913 - 1980",
+    "desc": "US track athlete, 1936 Olympics"
+  },
+  {
+    "name": "Ernest Hemingway",
+    "live": "1899 - 1961",
+    "desc": "American author"
+  },
+  {
+    "name": "John Lennon",
+    "live": "1940 - 1980",
+    "desc": "British musician, member of the Beatles"
+  },
+  { "name": "Henry Ford", "live": "1863 - 1947", "desc": "US Industrialist" },
+  {
+    "name": "Haile Selassie",
+    "live": "1892 - 1975",
+    "desc": "Emperor of Ethiopia 1930 - 1974"
+  },
+  {
+    "name": "Joseph Stalin",
+    "live": "1879 - 1953",
+    "desc": "Leader of Soviet Union 1924 - 1953"
+  },
+  {
+    "name": "Lord Baden Powell",
+    "live": "1857 - 1941",
+    "desc": "British Founder of scout movement"
+  },
+  { "name": "Michael Jordon", "live": "1963 -", "desc": "US Basketball star" },
+  {
+    "name": "George Bush Jnr",
+    "live": "1946 -",
+    "desc": "US President 2000-2008"
+  },
+  {
+    "name": "Vladimir Lenin",
+    "live": "1870 - 1924",
+    "desc": "Leader of Russian Revolution 1917"
+  },
+  {
+    "name": "Ingrid Bergman",
+    "live": "1915 - 1982",
+    "desc": "Swedish actress"
+  },
+  {
+    "name": "Fidel Castro",
+    "live": "1926 -",
+    "desc": "President of Cuba 1976 - 2008"
+  },
+  {
+    "name": "Leo Tolstoy",
+    "live": "1828 - 1910",
+    "desc": "Russian author and philosopher"
+  },
+  {
+    "name": "Pablo Picasso",
+    "live": "1881 - 1973",
+    "desc": "Spanish modern artist"
+  },
+  {
+    "name": "Oscar Wilde",
+    "live": "1854 - 1900",
+    "desc": "Irish author, poet, playwright"
+  },
+  {
+    "name": "Coco Chanel",
+    "live": "1883 - 1971",
+    "desc": "French fashion designer"
+  },
+  {
+    "name": "Charles de Gaulle",
+    "live": "1890 - 1970",
+    "desc": "French resistance leader and President 1959 - 1969"
+  },
+  { "name": "Amelia Earhart", "live": "1897 - 1937", "desc": "Aviator" },
+  {
+    "name": "John M Keynes",
+    "live": "1883 - 1946",
+    "desc": "British economist"
+  },
+  {
+    "name": "Louis Pasteur",
+    "live": "1822 - 1895",
+    "desc": "French chemist and microbiologist"
+  },
+  {
+    "name": "Mikhail Gorbachev",
+    "live": "1931 -",
+    "desc": "Leader of Soviet Union 1985 - 1991"
+  },
+  { "name": "Plato", "live": "423 BC - 348 BC", "desc": "Greek philosopher" },
+  {
+    "name": "Adolf Hitler",
+    "live": "1889 - 1945",
+    "desc": "leader of Nazi Germany 1933 - 1945"
+  },
+  { "name": "Sting", "live": "1951 -", "desc": "British musician" },
+  {
+    "name": "Mary Magdalene",
+    "live": "4 BCE - 40CE",
+    "desc": "devotee of Jesus Christ"
+  },
+  {
+    "name": "Alfred Hitchcock",
+    "live": "1899 - 1980",
+    "desc": "English / American film producer, director"
+  },
+  {
+    "name": "Michael Jackson",
+    "live": "1958 - 2009",
+    "desc": "American musician"
+  },
+  {
+    "name": "Madonna",
+    "live": "1958 -",
+    "desc": "American musician, actress, author"
+  },
+  {
+    "name": "Mata Hari",
+    "live": "1876 - 1917",
+    "desc": "Dutch exotic dancer, executed as spy"
+  },
+  { "name": "Cleopatra", "live": "69 BCE - 30 BCE", "desc": "Queen of Egypt" },
+  {
+    "name": "Grace Kelly",
+    "live": "1929 - 1982",
+    "desc": "American actress, Princess of Monaco"
+  },
+  {
+    "name": "Steve Jobs",
+    "live": "1955 - 2012",
+    "desc": "co-founder of Apple computers"
+  },
+  {
+    "name": "Ronald Reagan",
+    "live": "1911 - 2004",
+    "desc": "US President 1981-1989"
+  },
+  {
+    "name": "Lionel Messi",
+    "live": "1987 -",
+    "desc": "Argentinian footballer"
+  },
+  {
+    "name": "Babe Ruth",
+    "live": "1895 - 1948",
+    "desc": "American baseball player"
+  },
+  {
+    "name": "Bob Geldof",
+    "live": "1951 -",
+    "desc": "Irish musician, charity worker"
+  },
+  {
+    "name": "Leon Trotsky",
+    "live": "1879 - 1940",
+    "desc": "Russian Marxist revolutionary"
+  },
+  { "name": "Roger Federer", "live": "1981 -", "desc": "Swiss Tennis player" },
+  {
+    "name": "Sigmund Freud",
+    "live": "1856 - 1939",
+    "desc": "Austrian psychoanalyst"
+  },
+  {
+    "name": "Woodrow Wilson",
+    "live": "1856 - 1924",
+    "desc": "US president 1913 - 1921"
+  },
+  {
+    "name": "Mao Zedong",
+    "live": "1893 - 1976",
+    "desc": "Leader of Chinese Communist revolution"
+  },
+  {
+    "name": "Katherine Hepburn",
+    "live": "1907 - 2003",
+    "desc": "American actress"
+  },
+  {
+    "name": "Audrey Hepburn",
+    "live": "1929 - 1993",
+    "desc": "British actress and humanitarian"
+  },
+  { "name": "David Beckham", "live": "1975 -", "desc": "English footballer" },
+  { "name": "Tiger Woods", "live": "1975 -", "desc": "American golfer" },
+  {
+    "name": "Usain Bolt",
+    "live": "1986 -",
+    "desc": "Jamaican athlete and Olympian"
+  },
+  { "name": "Carl Lewis", "live": "1961 -", "desc": "US athlete and Olympian" },
+  {
+    "name": "Prince Charles",
+    "live": "1948 -",
+    "desc": "Heir to British throne"
+  },
+  {
+    "name": "Jacqueline Kennedy Onassis",
+    "live": "1929 - 1994",
+    "desc": "American wife of JF Kennedy"
+  },
+  { "name": "C.S. Lewis", "live": "1898 - 1963", "desc": "British author" },
+  {
+    "name": "Billie Holiday",
+    "live": "1915 - 1959",
+    "desc": "American jazz singer"
+  },
+  { "name": "J.R.R. Tolkien", "live": "1892 - 1973", "desc": "British author" },
+  {
+    "name": "Billie Jean King",
+    "live": "1943 -",
+    "desc": "American tennis player and human rights activist"
+  },
+  {
+    "name": "Anne Frank",
+    "live": "1929 - 1945",
+    "desc": "Dutch Jewish author who died in Holocaust"
+  },
+  {
+    "name": "Robert I, the Magnificent",
+    "live": "1000-1035",
+    "desc": "Duke of Normandy"
+  },
+  { "name": "John, King of England", "live": "1166-1216", "desc": "King" },
+  { "name": "Henry II Of England", "live": "1133-1189", "desc": "King" },
+  { "name": "Richard I of England", "live": "1157-1199", "desc": "King" },
+  { "name": "Averroes", "live": "1126-1198", "desc": "Philosopher" },
+  { "name": "Marco Polo", "live": "1254-1324", "desc": "Explorer" },
+  { "name": "Rumi", "live": "1207-1273", "desc": "Poet" },
+  { "name": "Kublai Khan", "live": "1215-1294", "desc": "War Hero" },
+  { "name": "Robert the Bruce", "live": "1274-1329", "desc": "King" },
+  { "name": "Henry III", "live": "1207-1272", "desc": "King" },
+  { "name": "Edward I of England", "live": "1239-1307", "desc": "King" },
+  { "name": "Nasir Al-din Al-Tusi", "live": "1201-1274", "desc": "Astronomer" },
+  { "name": "Edmund Crouchback", "live": "1245-1296", "desc": "Politician" },
+  { "name": "Shahrukh Mirza", "live": "1377-1447", "desc": "Prince" },
+  { "name": "Louis I", "live": "1326-1382", "desc": "King" },
+  { "name": "Charles V of France", "live": "1338-1380", "desc": "King" },
+  { "name": "Henry The Navigator", "live": "1394-1460", "desc": "Explorer" },
+  { "name": "Petrarch", "live": "1304-1374", "desc": "Poet" },
+  { "name": "Philippa Of Lancaster", "live": "1359-1415", "desc": "Queen" },
+  { "name": "Ibn Khaldun", "live": "1332-1406", "desc": "Historian" },
+  {
+    "name": "Catherine Of Siena",
+    "live": "1347-1380",
+    "desc": "Religious Leader"
+  },
+  { "name": "Ulugh Beg", "live": "1394-1449", "desc": "Astronomer" },
+  { "name": "Rupert, King of Germany", "live": "1352-1410", "desc": "King" },
+  {
+    "name": "Pope Nicholas V",
+    "live": "1397-1455",
+    "desc": "Religious Leader"
+  },
+  { "name": "Sigismund Of Luxemburg", "live": "1368-1437", "desc": "King" },
+  { "name": "William de la Pole", "live": "1396-1450", "desc": "War Hero" },
+  { "name": "John II Of France", "live": "1319-1364", "desc": "King" },
+  { "name": "Leonardo da Vinci", "live": "1452-1519", "desc": "Painter" },
+  { "name": "Christopher Columbus", "live": "1451-1506", "desc": "Explorer" },
+  { "name": "Henry VIII of England", "live": "1491-1547", "desc": "King" },
+  { "name": "Queen Isabella", "live": "1451-1504", "desc": "Queen" },
+  { "name": "Joan of Arc", "live": "1412-1431", "desc": "War Hero" },
+  { "name": "Michelangelo", "live": "1475-1564", "desc": "Painter" },
+  { "name": "Martin Luther", "live": "1483-1546", "desc": "Religious Leader" },
+  { "name": "Ferdinand Magellan", "live": "1480-1521", "desc": "Explorer" },
+  { "name": "Hernando Cortes", "live": "1485-1547", "desc": "Explorer" },
+  { "name": "Jacques Cartier", "live": "1491-1557", "desc": "Explorer" },
+  { "name": "Henry VII", "live": "1457-1509", "desc": "King" },
+  { "name": "Guru Nanak", "live": "1469-1539", "desc": "Religious Leader" },
+  { "name": "Amerigo Vespucci", "live": "1454-1512", "desc": "Explorer" },
+  { "name": "Richard III", "live": "1452-1485", "desc": "King" },
+  { "name": "Raphael", "live": "1483-1520", "desc": "Painter" },
+  { "name": "Nicolaus Copernicus", "live": "1473-1543", "desc": "Astronomer" },
+  { "name": "Hernando Desoto", "live": "1496-1542", "desc": "Explorer" },
+  { "name": "Catherine Of Aragon", "live": "1485-1536", "desc": "Queen" },
+  { "name": "Johannes Gutenberg", "live": "1400-1468", "desc": "Inventor" },
+  { "name": "Edward IV of England", "live": "1442-1483", "desc": "King" },
+  { "name": "Niccolo Machiavelli", "live": "1469-1527", "desc": "Philosopher" },
+  { "name": "Gustav I of Sweden", "live": "1496-1560", "desc": "King" },
+  { "name": "Suleiman I", "live": "1494-1566", "desc": "Sultan" },
+  { "name": "Queen Margaret of Anjou", "live": "1430-1482", "desc": "Queen" },
+  { "name": "Juan Diego", "live": "1474-1548", "desc": "Religious Leader" },
+  { "name": "Prince Arthur", "live": "1486-1502", "desc": "Prince" },
+  {
+    "name": "Ignatius Of Loyola",
+    "live": "1491-1556",
+    "desc": "Religious Leader"
+  },
+  { "name": "Sir Thomas More", "live": "1478-1535", "desc": "Politician" },
+  { "name": "Albrecht Durer", "live": "1471-1528", "desc": "Painter" },
+  { "name": "John Fisher", "live": "1489-1535", "desc": "Religious Leader" },
+  { "name": "Lorenzo de' Medici", "live": "1449-1492", "desc": "World Leader" },
+  {
+    "name": "Pope Alexander VI",
+    "live": "1431-1503",
+    "desc": "Religious Leader"
+  },
+  { "name": "Hans Holbein", "live": "1497-1543", "desc": "Painter" },
+  { "name": "Cesare Borgia", "live": "1475-1507", "desc": "Religious Leader" },
+  {
+    "name": "Katharina Von Bora",
+    "live": "1499-1552",
+    "desc": "Religious Leader"
+  },
+  { "name": "Ivan III", "live": "1440-1505", "desc": "Prince" },
+  { "name": "Charles VII of France", "live": "1403-1461", "desc": "King" },
+  { "name": "Leon Battista Alberti", "live": "1404-1472", "desc": "Architect" },
+  {
+    "name": "Huldrych Zwingli",
+    "live": "1484-1531",
+    "desc": "Religious Leader"
+  },
+  { "name": "Jacopo Sansovino", "live": "1486-1570", "desc": "Sculptor" },
+  { "name": "Martin Behaim", "live": "1459-1507", "desc": "Explorer" },
+  { "name": "Isabella d'Este", "live": "1474-1539", "desc": "Politician" },
+  { "name": "Thomas Cranmer", "live": "1489-1556", "desc": "Religious Leader" },
+  { "name": "Jacopo Sannazaro", "live": "1458-1530", "desc": "Poet" },
+  { "name": "Baccio Bandinelli", "live": "1493-1560", "desc": "Sculptor" },
+  { "name": "Ludovico Ariosto", "live": "1474-1533", "desc": "Poet" },
+  { "name": "Andres Deurdaneta", "live": "1498-1568", "desc": "Explorer" },
+  { "name": "Matthias Corvinus", "live": "1443-1490", "desc": "King" },
+  { "name": "William Shakespeare", "live": "1564-1616", "desc": "Playwright" },
+  { "name": "Elizabeth I of England", "live": "1533-1603", "desc": "Queen" },
+  { "name": "Mary I of England", "live": "1516-1558", "desc": "Queen" },
+  { "name": "Galileo Galilei", "live": "1564-1642", "desc": "Inventor" },
+  { "name": "John Smith", "live": "1580-1631", "desc": "Explorer" },
+  { "name": "Henry Hudson", "live": "1565-1611", "desc": "Explorer" },
+  { "name": "Mary Queen of Scots", "live": "1542-1587", "desc": "Queen" },
+  {
+    "name": "Cardinal Richelieu",
+    "live": "1585-1642",
+    "desc": "Religious Leader"
+  },
+  { "name": "Diego Velazquez", "live": "1599-1660", "desc": "Painter" },
+  { "name": "Francis Drake", "live": "1540-1596", "desc": "Explorer" },
+  { "name": "Samuel De Champlain", "live": "1574-1635", "desc": "Explorer" },
+  { "name": "Ivan The Terrible", "live": "1530-1584", "desc": "Prince" },
+  { "name": "Anne Of Cleves", "live": "1515-1557", "desc": "Queen" },
+  { "name": "Nostradamus", "live": "1503-1566", "desc": "Poet" },
+  { "name": "Jane Seymour", "live": "1508-1537", "desc": "Princess" },
+  { "name": "Miguel de Cervantes", "live": "1547-1616", "desc": "Novelist" },
+  { "name": "Francis Bacon", "live": "1561-1626", "desc": "Philosopher" },
+  { "name": "Edward VI", "live": "1537-1553", "desc": "King" },
+  { "name": "Oliver Cromwell", "live": "1599-1658", "desc": "Politician" },
+  { "name": "Walter Raleigh", "live": "1552-1618", "desc": "Explorer" },
+  { "name": "Johannes Kepler", "live": "1571-1630", "desc": "Astronomer" },
+  { "name": "Rene Descartes", "live": "1596-1650", "desc": "Philosopher" },
+  { "name": "William Bradford", "live": "1590-1657", "desc": "Politician" },
+  { "name": "Oda Nobunaga", "live": "1534-1582", "desc": "Politician" },
+  { "name": "Tycho Brahe", "live": "1546-1601", "desc": "Astronomer" },
+  { "name": "William Harvey", "live": "1578-1657", "desc": "Physicist" },
+  { "name": "Catherine De Medici", "live": "1519-1589", "desc": "Queen" },
+  { "name": "John Calvin", "live": "1509-1564", "desc": "Religious Leader" },
+  { "name": "Thomas Hobbes", "live": "1588-1679", "desc": "Philosopher" },
+  { "name": "John Winthrop", "live": "1587-1649", "desc": "Politician" },
+  { "name": "Thomas Hooker", "live": "1586-1647", "desc": "Religious Leader" },
+  { "name": "Andreas Vesalius", "live": "1514-1564", "desc": "Anatomist" },
+  { "name": "Toyotomi Hideyoshi", "live": "1537-1598", "desc": "Politician" },
+  { "name": "John Dee", "live": "1527-1608", "desc": "Philosopher" },
+  {
+    "name": "Pedro Menendez de Aviles",
+    "live": "1519-1574",
+    "desc": "Explorer"
+  },
+  { "name": "Tokugawa Ieyasu", "live": "1543-1616", "desc": "War Hero" },
+  { "name": "Dirk Hartog", "live": "1580-1621", "desc": "Explorer" },
+  { "name": "Caravaggio", "live": "1571-1610", "desc": "Painter" },
+  { "name": "George Percy", "live": "1580-1632", "desc": "Explorer" },
+  { "name": "Robert Greene", "live": "1558-1592", "desc": "Playwright" },
+  { "name": "Charles V", "live": "1500-1558", "desc": "King" },
+  { "name": "Maharana Pratap", "live": "1540-1597", "desc": "World Leader" },
+  { "name": "John Donne", "live": "1572-1631", "desc": "Poet" },
+  { "name": "Isabella Markham", "live": "1527-1579", "desc": "" },
+  { "name": "Lady Anne Clifford", "live": "1590-1676", "desc": "Countess" },
+  { "name": "John Harington", "live": "1561-1612", "desc": "Entrepreneur" },
+  {
+    "name": "Susanna Shakespeare",
+    "live": "1583-1649",
+    "desc": "Family Member"
+  },
+  { "name": "Jusepe De Ribera", "live": "1591-1652", "desc": "Painter" },
+  { "name": "Sir Isaac Newton", "live": "1643-1727", "desc": "Physicist" },
+  { "name": "Johann Sebastian Bach", "live": "1685-1750", "desc": "Composer" },
+  { "name": "Brook Taylor", "live": "1685-1731", "desc": "Mathematician" },
+  { "name": "Antonio Vivaldi", "live": "1678-1741", "desc": "Composer" },
+  { "name": "James II", "live": "1633-1701", "desc": "King" },
+  { "name": "William Penn", "live": "1644-1718", "desc": "Politician" },
+  { "name": "John Locke", "live": "1632-1704", "desc": "Philosopher" },
+  { "name": "George Frideric Handel", "live": "1685-1759", "desc": "Composer" },
+  { "name": "Voltaire", "live": "1694-1778", "desc": "Historian" },
+  { "name": "Jeremy Taylor", "live": "1613-1667", "desc": "Religious Leader" },
+  { "name": "Arcangelo Corelli", "live": "1653-1713", "desc": "Composer" },
+  { "name": "Robert Hooke", "live": "1635-1703", "desc": "Philosopher" },
+  {
+    "name": "Guru Gobind Singh",
+    "live": "1666-1708",
+    "desc": "Religious Leader"
+  },
+  { "name": "Abel Tasman", "live": "1603-1659", "desc": "Explorer" },
+  { "name": "Louis XIV", "live": "1638-1715", "desc": "King" },
+  { "name": "Charles II of England", "live": "1630-1685", "desc": "King" },
+  { "name": "Samuel Pepys", "live": "1633-1703", "desc": "Politician" },
+  { "name": "Rembrandt", "live": "1606-1669", "desc": "Painter" },
+  { "name": "Johann Pachelbel", "live": "1653-1706", "desc": "Composer" },
+  { "name": "Jonathan Swift", "live": "1667-1745", "desc": "Novelist" },
+  { "name": "Louis Jolliet", "live": "1645-1700", "desc": "Explorer" },
+  { "name": "George II", "live": "1683-1760", "desc": "King" },
+  { "name": "Blaise Pascal", "live": "1623-1662", "desc": "Philosopher" },
+  { "name": "Saskia van Uylenburgh", "live": "1612-1642", "desc": "Model" },
+  { "name": "Peter the Great", "live": "1672-1725", "desc": "Emperor" },
+  { "name": "William III", "live": "1650-1702", "desc": "King" },
+  { "name": "James Oglethorpe", "live": "1696-1785", "desc": "Explorer" },
+  { "name": "Abigail Williams", "live": "1680-1697", "desc": "" },
+  { "name": "Bartolomeo Cristofori", "live": "1655-1731", "desc": "Inventor" },
+  { "name": "Robert De la Salle", "live": "1643-1687", "desc": "Explorer" },
+  {
+    "name": "Jean Baptiste Massillon",
+    "live": "1663-1742",
+    "desc": "Religious Leader"
+  },
+  { "name": "Johannes Vermeer", "live": "1632-1675", "desc": "Painter" },
+  {
+    "name": "Charles Perrault",
+    "live": "1628-1703",
+    "desc": "Children's Author"
+  },
+  { "name": "John Milton", "live": "1608-1674", "desc": "Poet" },
+  { "name": "Jacques Marquette", "live": "1637-1675", "desc": "Explorer" },
+  { "name": "Henry Purcell", "live": "1659-1695", "desc": "Composer" },
+  {
+    "name": "Antonie Van Leeuwenhoek",
+    "live": "1632-1723",
+    "desc": "Inventor"
+  },
+  { "name": "Mary II Of England", "live": "1662-1694", "desc": "Queen" },
+  { "name": "Edmond Halley", "live": "1656-1742", "desc": "Mathematician" },
+  { "name": "John Proctor", "live": "1632-1692", "desc": "" },
+  { "name": "Janusz Radziwill", "live": "1612-1655", "desc": "Prince" },
+  { "name": "Vitus Bering", "live": "1661-1741", "desc": "Explorer" },
+  { "name": "Maria Celeste", "live": "1600-1634", "desc": "Religious Leader" },
+  {
+    "name": "Gottfried Wilhelm Leibniz",
+    "live": "1646-1716",
+    "desc": "Philosopher"
+  },
+  {
+    "name": "Guru Tegh Bahadur",
+    "live": "1621-1675",
+    "desc": "Religious Leader"
+  },
+  { "name": "Montesquieu", "live": "1689-1755", "desc": "Philosopher" },
+  { "name": "Sarah Good", "live": "1653-1692", "desc": "" },
+  {
+    "name": "Christiaan Huygens",
+    "live": "1629-1695",
+    "desc": "Mathematician"
+  },
+  { "name": "George Washington", "live": "1732-1799", "desc": "US President" },
+  { "name": "Benjamin Franklin", "live": "1706-1790", "desc": "Inventor" },
+  { "name": "Thomas Jefferson", "live": "1743-1826", "desc": "US President" },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "live": "1756-1791",
+    "desc": "Composer"
+  },
+  { "name": "Ludwig van Beethoven", "live": "1770-1827", "desc": "Composer" },
+  { "name": "Alexander Hamilton", "live": "1755-1804", "desc": "Politician" },
+  { "name": "John Adams", "live": "1735-1826", "desc": "US President" },
+  {
+    "name": "Elizabeth Hamilton",
+    "live": "1757-1854",
+    "desc": "Political Wife"
+  },
+  { "name": "Georges Danton", "live": "1759-1794", "desc": "World Leader" },
+  { "name": "Aaron Burr", "live": "1756-1836", "desc": "Politician" },
+  {
+    "name": "Angelica Schuyler Church",
+    "live": "1756-1814",
+    "desc": "Family Member"
+  },
+  { "name": "Napoleon Bonaparte", "live": "1769-1821", "desc": "Emperor" },
+  { "name": "Marie Antoinette", "live": "1755-1793", "desc": "Queen" },
+  { "name": "James Madison", "live": "1751-1836", "desc": "US President" },
+  { "name": "George III", "live": "1738-1820", "desc": "King" },
+  { "name": "Captain James Cook", "live": "1728-1779", "desc": "Explorer" },
+  { "name": "Andrew Jackson", "live": "1767-1845", "desc": "US President" },
+  { "name": "John Laurens", "live": "1754-1782", "desc": "War Hero" },
+  { "name": "Peggy Schuyler", "live": "1758-1801", "desc": "Family Member" },
+  { "name": "Paul Revere", "live": "1735-1818", "desc": "War Hero" },
+  { "name": "Philip Hamilton", "live": "1782-1801", "desc": "Family Member" },
+  { "name": "John Quincy Adams", "live": "1767-1848", "desc": "US President" },
+  { "name": "Betsy Ross", "live": "1752-1836", "desc": "Entrepreneur" },
+  { "name": "Asher Brown Durand", "live": "1796-1886", "desc": "Painter" },
+  { "name": "Abigail Adams", "live": "1744-1818", "desc": "Political Wife" },
+  { "name": "John Chapman", "live": "1774-1845", "desc": "Explorer" },
+  { "name": "Gilbert Du Motier", "live": "1757-1834", "desc": "War Hero" },
+  {
+    "name": "Martha Washington",
+    "live": "1731-1802",
+    "desc": "Political Wife"
+  },
+  { "name": "Samuel Adams", "live": "1722-1803", "desc": "Politician" },
+  { "name": "John Hancock", "live": "1737-1793", "desc": "Politician" },
+  { "name": "Davy Crockett", "live": "1786-1836", "desc": "War Hero" },
+  { "name": "James Monroe", "live": "1758-1831", "desc": "US President" },
+  { "name": "Jane Austen", "live": "1775-1817", "desc": "Novelist" },
+  { "name": "Benedict Arnold", "live": "1741-1801", "desc": "" },
+  { "name": "Daniel Boone", "live": "1734-1820", "desc": "Explorer" },
+  { "name": "Washington Irving", "live": "1783-1859", "desc": "Novelist" },
+  { "name": "Sam Houston", "live": "1793-1863", "desc": "Politician" },
+  { "name": "Zachary Taylor", "live": "1784-1850", "desc": "US President" },
+  { "name": "Maria Reynolds", "live": "1768-1828", "desc": "Family Member" },
+  { "name": "John Tyler", "live": "1790-1862", "desc": "US President" },
+  { "name": "Martin Van Buren", "live": "1782-1862", "desc": "US President" },
+  { "name": "James K. Polk", "live": "1795-1849", "desc": "US President" },
+  { "name": "James Buchanan", "live": "1791-1868", "desc": "US President" },
+  {
+    "name": "William Henry Harrison",
+    "live": "1773-1841",
+    "desc": "US President"
+  },
+  { "name": "Robert Burns", "live": "1759-1796", "desc": "Poet" },
+  { "name": "George Mason", "live": "1725-1792", "desc": "Politician" },
+  { "name": "Meriwether Lewis", "live": "1774-1809", "desc": "Explorer" },
+  { "name": "Patrick Henry", "live": "1736-1799", "desc": "War Hero" },
+  { "name": "Albert Einstein", "live": "1879-1955", "desc": "Physicist" },
+  { "name": "Abraham Lincoln", "live": "1809-1865", "desc": "US President" },
+  { "name": "Queen Victoria", "live": "1819-1901", "desc": "Queen" },
+  { "name": "Helen Keller", "live": "1880-1968", "desc": "Activist" },
+  { "name": "Babe Ruth", "live": "1895-1948", "desc": "Baseball Player" },
+  {
+    "name": "Harriet Tubman",
+    "live": "1820-1913",
+    "desc": "Civil Rights Leader"
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "live": "1869-1948",
+    "desc": "Civil Rights Leader"
+  },
+  { "name": "Amelia Earhart", "live": "1897-1939", "desc": "Pilot" },
+  { "name": "Vincent van Gogh", "live": "1853-1890", "desc": "Painter" },
+  { "name": "Annie Oakley", "live": "1860-1926", "desc": "" },
+  { "name": "Charlie Chaplin", "live": "1889-1977", "desc": "Movie Actor" },
+  { "name": "Pablo Picasso", "live": "1881-1973", "desc": "Painter" },
+  { "name": "Coco Chanel", "live": "1883-1971", "desc": "Fashion Designer" },
+  { "name": "Nikola Tesla", "live": "1856-1943", "desc": "Inventor" },
+  { "name": "Thomas Edison", "live": "1847-1931", "desc": "Inventor" },
+  { "name": "Harry Houdini", "live": "1874-1926", "desc": "Magician" },
+  { "name": "Colonel Sanders", "live": "1890-1980", "desc": "Entrepreneur" },
+  { "name": "Winston Churchill", "live": "1874-1965", "desc": "World Leader" },
+  { "name": "Guccio Gucci", "live": "1881-1953", "desc": "Fashion Designer" },
+  { "name": "Emma Morano", "live": "1899-2017", "desc": "Supercentenarian" },
+  { "name": "Henry Ford", "live": "1863-1947", "desc": "Entrepreneur" },
+  {
+    "name": "John D. Rockefeller",
+    "live": "1839-1937",
+    "desc": "Entrepreneur"
+  },
+  { "name": "Theodore Roosevelt", "live": "1858-1919", "desc": "US President" },
+  { "name": "Edgar Allan Poe", "live": "1809-1849", "desc": "Poet" },
+  { "name": "Louis Vuitton", "live": "1821-1892", "desc": "Entrepreneur" },
+  { "name": "Charles Dickens", "live": "1812-1870", "desc": "Novelist" },
+  {
+    "name": "Franklin D. Roosevelt",
+    "live": "1882-1945",
+    "desc": "US President"
+  },
+  { "name": "PT Barnum", "live": "1810-1891", "desc": "Entrepreneur" },
+  { "name": "Madame Curie", "live": "1867-1934", "desc": "Physicist" },
+  { "name": "Charles Darwin", "live": "1809-1882", "desc": "Biologist" },
+  { "name": "Mark Twain", "live": "1835-1910", "desc": "Novelist" },
+  { "name": "Jeanne Calment", "live": "1875-1997", "desc": "Supercentenarian" },
+  { "name": "Alexander Graham Bell", "live": "1847-1922", "desc": "Inventor" },
+  {
+    "name": "George Washington Carver",
+    "live": "1864-1943",
+    "desc": "Botanist"
+  },
+  {
+    "name": "Laura Ingalls Wilder",
+    "live": "1867-1957",
+    "desc": "Autobiographer"
+  },
+  { "name": "Susan B. Anthony", "live": "1820-1906", "desc": "Activist" },
+  { "name": "Enzo Ferrari", "live": "1898-1988", "desc": "Entrepreneur" },
+  {
+    "name": "Frederick Douglass",
+    "live": "1818-1895",
+    "desc": "Autobiographer"
+  },
+  { "name": "Florence Nightingale", "live": "1820-1910", "desc": "Activist" },
+  { "name": "Otto Frank", "live": "1889-1980", "desc": "Entrepreneur" },
+  { "name": "Vladimir Lenin", "live": "1870-1924", "desc": "Politician" },
+  { "name": "Milton S. Hershey", "live": "1857-1945", "desc": "Entrepreneur" },
+  { "name": "Fusajiro Yamauchi", "live": "1859-1940", "desc": "Entrepreneur" },
+  { "name": "Benito Mussolini", "live": "1883-1945", "desc": "World Leader" },
+  { "name": "Ulysses S. Grant", "live": "1822-1885", "desc": "US President" },
+  { "name": "Mao Tse Tung", "live": "1893-1976", "desc": "World Leader" },
+  { "name": "Robert E. Lee", "live": "1807-1870", "desc": "Politician" },
+  { "name": "J.R.R. Tolkien", "live": "1892-1973", "desc": "Novelist" },
+  {
+    "name": "Famous One",
+    "live": "2000 -",
+    "desc": "Famous one for testing on it"
+  }
+]
